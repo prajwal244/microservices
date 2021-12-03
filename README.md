@@ -5,7 +5,9 @@ URL : http://localhost:8989/order/bookOrder
 HTTP Method : POST
 
 Json Request :
-{
+  
+  
+  {
 	"order":{
 		"id":103,
 		"name":"Mobile",
@@ -16,9 +18,9 @@ Json Request :
 	"payment":{}
 }
 
-Json Response :
-
-{
+Json Response : 
+ 
+  {
     "order": {
         "id": 26,
         "name": "ear-phone",
